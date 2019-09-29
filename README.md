@@ -1,1 +1,1 @@
-# js-express-spa-redis-auth
+# js-express-spa-redis-auth-cookies
